@@ -1,0 +1,14 @@
+{
+    "appId": "com.example.app",
+    "mac": {
+      "category": "public.app-category.utilities"
+    },
+    "files": [
+      "dist/**/*",
+      "electron/**/*"
+    ],
+    "extraResources": [
+      "extraResourceFile"
+    ]
+  }
+  
